@@ -1,0 +1,32 @@
+[
+    {   
+        "id": 1,
+        "name": "Tech Innovators Inc.",
+        "industry": "Technology",
+        "founded_year": 2010,
+        "hq_location": "Silicon Valley, USA",
+        "employees": 5000,
+        "revenue": "$2.5 billion",
+        "website": "http://www.techinnovators.com"
+      },
+      { 
+        "id":2,
+        "name": "Green Energy Solutions Ltd.",
+        "industry": "Renewable Energy",
+        "founded_year": 2012,
+        "hq_location": "London, UK",
+        "employees": 1000,
+        "revenue": "$1 billion",
+        "website": "http://www.greenenergysolutions.com"
+      },
+      {
+        "id":3,
+        "name": "Global Fashion Hub LLC",
+        "industry": "Fashion",
+        "founded_year": 2005,
+        "hq_location": "Paris, France",
+        "employees": 8000,
+        "revenue": "$4.2 billion",
+        "website": "http://www.globalfashionhub.com"
+      }
+]
